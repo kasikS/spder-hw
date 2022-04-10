@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Boards")(type "KiCad")(uri "${HOME}/cernbox/kicad_libs/Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "stm32f4_fpga-rescue")(type "Legacy")(uri "${KIPRJMOD}/stm32f4_fpga-rescue.lib")(options "")(descr ""))
+)

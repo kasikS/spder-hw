@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Boards")(type "KiCad")(uri "${HOME}/cernbox/kicad_libs/Boards.pretty")(options "")(descr ""))
+)
